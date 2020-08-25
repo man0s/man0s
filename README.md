@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a passionate Software Engineer. Programming is not just a career path for me, but also a passion of mine. I always seek to improve and expand my knowledge and skills. My goal is to grow as a person and as a professional, every day. 
+
 <!--
 **man0s/man0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My work 🔭
+
+- I work as a Software Engineer for [Citrix](https://github.com/citrix) - [website](https://www.citrix.com/)
+- I code and experiment a lot - [view repositories](https://github.com/man0s?tab=repositories)
+
+### Contact 📫
+
+- [Email](mailto:e.katefidis@outlook.com)
+- [Twitter](https://twitter.com/EKatefidis)
+- [Linkedin](https://www.linkedin.com/in/man0s)
