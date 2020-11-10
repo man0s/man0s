@@ -1,5 +1,3 @@
-[![Oliver Kopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=man0s&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=man0s&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 I am a passionate Software Engineer. Programming is not just a career path for me, but also a passion of mine. I always seek to improve and expand my knowledge and skills. My goal is to grow as a person and as a professional, every day. 
