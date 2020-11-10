@@ -1,4 +1,4 @@
-[![Oliver Kopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=man0s&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=man0s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Oliver Kopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=man0s&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=man0s&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
