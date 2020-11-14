@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### My work 🔭
 
-- I work as a Software Engineer for [Citrix](https://www.citrix.com)
+- I work as a Cloud Platform Engineer for [Citrix](https://www.citrix.com)
 - I code and experiment a lot - [Repositories](https://github.com/man0s?tab=repositories)
 
 ### Contact 📫
