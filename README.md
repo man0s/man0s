@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
 ### Hi there 👋
 
 I am a passionate Software Engineer. Programming is not just a career path for me, but also a passion of mine. I always seek to improve and expand my knowledge and skills. My goal is to grow as a person and as a professional, every day. 
