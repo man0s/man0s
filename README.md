@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 - I work as a Cloud Platform Engineer for [Citrix](https://www.citrix.com)
 - I code and experiment a lot - [Repositories](https://github.com/man0s?tab=repositories)
 
-### Contact 📫
+<details>
+  <summary><b>Github Stats 📊</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=man0s&count_private=true&show_icons=true&include_all_commits=true" alt="Emmanouil Katefidis | Stats" />
+</details>
 
-- [Email](mailto:e.katefidis@outlook.com)
-- [Twitter](https://twitter.com/EKatefidis)
-- [Linkedin](https://www.linkedin.com/in/man0s)
+[![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:e.katefidis@outlook.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/EKatefidis)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/man0s)
