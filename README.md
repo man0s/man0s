@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a passionate Software Engineer. Programming is not just a career path for me, but also a passion of mine. I always seek to improve and expand my knowledge and skills. My goal is to grow as a person and as a professional, every day. 
+Cloud Engineer with 2+ years of experience managing and building infrastructure tools and large-scale, highly available distributed cloud solutions by leveraging skills in Software Engineering and DevOps field.
+I am a committed individual with a passion for technology and its inner working, led by curiosity, creativity, and eagerness. I always seek new challenges so that can I improve and expand my knowledge and skills. My goal is to grow as a person and as a professional, every day.
 
 <!--
 **man0s/man0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
