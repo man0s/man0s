@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### My work 🔭
 
-- I work as a Cloud Platform Engineer for [Citrix](https://www.citrix.com)
+- I work as a Cloud DevOps Engineer for [Mercedes-Benz Mobility]([https://www.citrix.com](https://www.mercedes-benz-mobility.com/en/))
 - I code and experiment a lot - [Repositories](https://github.com/man0s?tab=repositories)
 
 &nbsp;
